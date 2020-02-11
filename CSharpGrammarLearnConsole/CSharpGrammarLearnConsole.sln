@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpGrammarLearnConsole", "CSharpGrammarLearnConsole\CSharpGrammarLearnConsole.csproj", "{F63DC0F6-F4DE-4D9A-9B89-DC3DB6798F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63DC0F6-F4DE-4D9A-9B89-DC3DB6798F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63DC0F6-F4DE-4D9A-9B89-DC3DB6798F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63DC0F6-F4DE-4D9A-9B89-DC3DB6798F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63DC0F6-F4DE-4D9A-9B89-DC3DB6798F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF891640-219E-4289-AF6C-E0F344AD91E8}
+	EndGlobalSection
+EndGlobal
