@@ -12,6 +12,8 @@ CSharpLearn和[My_Note](https://github.com/zLulus/My_Note/)、[NotePractice](htt
 
 [1.2 C#可以做的事概览](https://github.com/zLulus/CSharpLearn/wiki/1.2-C%23%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84%E4%BA%8B%E6%A6%82%E8%A7%88)
 
-[2.1 C#语法的学习（一）](https://github.com/zLulus/CSharpLearn/wiki/2.1-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89)
+[2.1 C#语法的学习（一） && 循环](https://github.com/zLulus/CSharpLearn/wiki/2.1-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89-&&-%E5%BE%AA%E7%8E%AF)
 
-[2.2 C#语法的学习（二）](https://github.com/zLulus/CSharpLearn/wiki/2.2-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89)
+[2.2 C#语法的学习（二） && 穷举](https://github.com/zLulus/CSharpLearn/wiki/2.2-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89--&&-%E7%A9%B7%E4%B8%BE)
+
+[2.3 C#语法的学习（三） && 排序](https://github.com/zLulus/CSharpLearn/wiki/2.3-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89-&&-%E6%8E%92%E5%BA%8F)
