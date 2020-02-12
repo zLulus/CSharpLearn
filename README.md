@@ -1,7 +1,7 @@
 # CSharpLearn简介
 CSharpLearn是C#教学系列的示例项目和教学文档集合。教学文档将放到Wiki里面。
 
-CSharpLearn是针对计算机零基础的教学课程，将从零开始讲解C#开发。
+CSharpLearn是针对计算机零基础的教学课程，将从零开始讲解C#开发。主要讲解内容在应用开发层面，想看数据建模、底层算法的同学就不必看了。
 
 CSharpLearn和[My_Note](https://github.com/zLulus/My_Note/)、[NotePractice](https://github.com/zLulus/NotePractice)的区别在于，CSharpLearn将从开发的各个方面来讲解C#开发，而不是独立的、纯粹的知识点，CSharpLearn中将包含解决问题的思路，设计理念等等思维性的内容。
 
