@@ -23,7 +23,10 @@ namespace CSharpGrammarLearnConsole
             //Exhaustion.GetArmstrongNumber(100,999);
 
             //精度
-            Exhaustion.Precision();
+            //Exhaustion.Precision();
+
+            //任意输入三个整数，然后按从小到大的顺序输出。
+            NumberSort.SortMethod();
 
             Console.ReadLine();
         }
