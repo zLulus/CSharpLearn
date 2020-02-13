@@ -35,7 +35,11 @@ namespace CSharpGrammarLearnConsole
             //BuyProductFormMarket.BuyTrottersOrRibs();
 
             //旅行的选择
-            Tourism.SelectTourism();
+            //Tourism.SelectTourism();
+
+            //斐波那契数列
+            var fibonacciNumber = FibonacciNumber.GetFibonacciNumber(10);
+            Console.WriteLine($"{fibonacciNumber}");
 
             Console.ReadLine();
         }
