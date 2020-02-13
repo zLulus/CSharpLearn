@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpGrammarLearnConsole.JudgeConditions;
+using System;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -26,7 +27,15 @@ namespace CSharpGrammarLearnConsole
             //Exhaustion.Precision();
 
             //任意输入三个整数，然后按从小到大的顺序输出。
-            NumberSort.SortMethod();
+            //NumberSort.SortMethod();
+
+            //购买排骨
+            //BuyProductFormMarket.BuyRibs();
+            //购买猪蹄or排骨
+            //BuyProductFormMarket.BuyTrottersOrRibs();
+
+            //旅行的选择
+            Tourism.SelectTourism();
 
             Console.ReadLine();
         }
