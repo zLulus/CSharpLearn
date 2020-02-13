@@ -24,4 +24,4 @@ If you have any questions about CSharpLearn, you can create issues.
 
 [2.5 C#语法的学习（五） && 判断](https://github.com/zLulus/CSharpLearn/wiki/2.5-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%94%EF%BC%89-&&-%E5%88%A4%E6%96%AD)
 
-[2.6 C#语法的学习（小结）](https://github.com/zLulus/CSharpLearn/wiki/2.6-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%B0%8F%E7%BB%93%EF%BC%89)
+[2.7 C#语法的学习（小结）](https://github.com/zLulus/CSharpLearn/wiki/2.7-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%B0%8F%E7%BB%93%EF%BC%89)
