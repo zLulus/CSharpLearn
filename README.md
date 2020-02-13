@@ -7,6 +7,8 @@ CSharpLearn和[My_Note](https://github.com/zLulus/My_Note/)、[NotePractice](htt
 
 CSharpLearn和[My_Note](https://github.com/zLulus/My_Note/)、[NotePractice](https://github.com/zLulus/NotePractice)的知识点一定会有重合的地方，但[My_Note](https://github.com/zLulus/My_Note/)、[NotePractice](https://github.com/zLulus/NotePractice)更偏向于“答案”，CSharpLearn和则重点在于如何得到答案。
 
+If you have any questions about CSharpLearn, you can create issues.
+
 ## 目录
 [1.1 开发IDE、必备工具](https://github.com/zLulus/CSharpLearn/wiki/1.1-%E5%BC%80%E5%8F%91IDE%E3%80%81%E5%BF%85%E5%A4%87%E5%B7%A5%E5%85%B7)
 
