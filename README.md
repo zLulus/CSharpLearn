@@ -29,3 +29,5 @@ If you have any questions about CSharpLearn, you can create issues.
 [2.7 C#语法的学习（小结）](https://github.com/zLulus/CSharpLearn/wiki/2.7-C%23%E8%AF%AD%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%B0%8F%E7%BB%93%EF%BC%89)
 
 [3. 项目管理规范 && 命名方式规范](https://github.com/zLulus/CSharpLearn/wiki/3.-%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83-&&-%E5%91%BD%E5%90%8D%E6%96%B9%E5%BC%8F%E8%A7%84%E8%8C%83)
+
+[4. 版本控制](https://github.com/zLulus/CSharpLearn/wiki/4.-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
