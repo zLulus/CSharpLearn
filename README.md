@@ -35,3 +35,5 @@ If you have any questions about CSharpLearn, you can create issues.
 [5. Github的使用](https://github.com/zLulus/CSharpLearn/wiki/5.-Github%E7%9A%84%E4%BD%BF%E7%94%A8)
 
 [6. 搜索&&学习常用站点](https://github.com/zLulus/CSharpLearn/wiki/6.-%E6%90%9C%E7%B4%A2&&%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%AB%99%E7%82%B9)
+
+[7 搜索关键词 && 提问](https://github.com/zLulus/CSharpLearn/wiki/7-%E6%90%9C%E7%B4%A2%E5%85%B3%E9%94%AE%E8%AF%8D-&&-%E6%8F%90%E9%97%AE)
