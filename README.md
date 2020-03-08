@@ -40,4 +40,6 @@ If you have any questions about CSharpLearn, you can create issues.
 
 [9.1 产品诞生全周期](https://github.com/zLulus/CSharpLearn/wiki/9.1-%E4%BA%A7%E5%93%81%E8%AF%9E%E7%94%9F%E5%85%A8%E5%91%A8%E6%9C%9F)
 
+[9.3 用户注册流程](https://github.com/zLulus/CSharpLearn/wiki/9.3-%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B)
+
 [9.5 授权系统](https://github.com/zLulus/CSharpLearn/wiki/9.5-%E6%8E%88%E6%9D%83%E7%B3%BB%E7%BB%9F)
