@@ -44,4 +44,4 @@ If you have any questions about CSharpLearn, you can create issues.
 
 [9.5 授权系统](https://github.com/zLulus/CSharpLearn/wiki/9.5-%E6%8E%88%E6%9D%83%E7%B3%BB%E7%BB%9F)
 
-[10.1](https://github.com/zLulus/CSharpLearn/wiki/10.1-%E5%BC%80%E5%8F%91%E5%9C%A8%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8%E4%B9%8B%E8%87%AA%E5%8A%A8%E5%90%88%E5%B9%B6%E8%A7%86%E9%A2%91)
+[10.1 开发在日常生活中的运用之自动合并视频](https://github.com/zLulus/CSharpLearn/wiki/10.1-%E5%BC%80%E5%8F%91%E5%9C%A8%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8%E4%B9%8B%E8%87%AA%E5%8A%A8%E5%90%88%E5%B9%B6%E8%A7%86%E9%A2%91)
